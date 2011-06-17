@@ -60,7 +60,7 @@ public class DoD {
                 System.out.println("You quit.");
             }
         }
-        System.out.println("Goodbye!");
+        System.out.println("Goodbye");
         
     }
 }
