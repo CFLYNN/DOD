@@ -5,7 +5,6 @@
 package dod;
 
 /**
- *
  * @author 20312792
  */
 public class DoD {
