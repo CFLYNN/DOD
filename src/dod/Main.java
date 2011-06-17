@@ -6,7 +6,6 @@
 package assignment2dod;
 
 /**
- *
  * @author 20312792
  */
 
